@@ -4,7 +4,8 @@ const { createApp } = Vue
     data() {
       return {
         pageTitle: 'Hello World!',
-        content: 'First try on Vue.js'
+        content: 'First try on Vue.js',
+        image: 'https://avatars.githubusercontent.com/u/6128107?s=200&v=4'
       }
     }
 
